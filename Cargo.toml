@@ -1,0 +1,9 @@
+[package]
+name = "rust_reference"
+version = "0.1.0"
+edition = "2021"
+description = "Learn about Rust"
+keywords = ["reference", "howto", "rust"]
+categories = ["tutorial", "reference", "howto"]
+repository = "https://github.com/mikejmcguirk/rust_reference"
+license = "whatever"
